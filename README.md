@@ -1,7 +1,6 @@
 # hello-world
-Hello World reposiory
+Hello World Repository
 
-Hello I'm fracru.
+ - Hello I'm fracru!!
 
-This repository is for learning purposes.
-
+ - This repository is for learning purposes!
