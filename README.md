@@ -3,4 +3,4 @@ hello world repository
 
 Hello i'm fracru
 
-this repository is meaningless
+this repository is useless
