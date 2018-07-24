@@ -1,7 +1,7 @@
 # hello-world
-hello world repository
+Hello World repository
 
-Hello I'm fracru
+Hello I'm fracru.
 
-this repository is for learning purposes
+This repository is for learning purposes.
 
