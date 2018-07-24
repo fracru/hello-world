@@ -3,4 +3,5 @@ Hello World Repository
 
  - Hello I'm fracru!
 
- - This repository is for lerning purposes!
+ - This repository is for learning purposes!
+
