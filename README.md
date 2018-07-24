@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository
+Hello World reposiory
 
 Hello I'm fracru.
 
